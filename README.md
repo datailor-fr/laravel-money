@@ -9,18 +9,20 @@
 
 > **Note:** This project abstracts [MoneyPHP](http://moneyphp.org/)
 
+> ⚠️ Temporary fork from cknow/laravel-money
+
 ## Installation
 
 Run the following command from you terminal:
 
 ```bash
-composer require cknow/laravel-money
+composer require datailor/laravel-money
 ```
 
 or add this to require section in your composer.json file:
 
 ```bash
-"cknow/laravel-money": "^7.0"
+"datailor/laravel-money": "^7.0"
 ```
 
 then run ```composer update```
